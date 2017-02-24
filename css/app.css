@@ -41,3 +41,7 @@ ul {
     list-style: none;
     padding: 0;
 }
+article ul {
+    list-style: disc;
+    padding-left: 20px;
+}
